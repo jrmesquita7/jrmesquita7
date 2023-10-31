@@ -9,12 +9,8 @@ Olá, me chamo Cleobeto mas pode me chamar de Beto, tenho 24 anos e Analista de 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jrmesquita7&show_icons=true)
 
-- Repositórios: XX
-- Seguidores: XX
-- Seguindo: XX
-- Contribuições no GitHub: XX
 
 ## Visitas
 
