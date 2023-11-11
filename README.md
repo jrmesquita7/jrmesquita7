@@ -14,7 +14,8 @@ Olá, me chamo Cleobeto mas pode me chamar de Beto, tenho 24 anos e Analista de 
 
 ## Visitas
 
-![Contador de Visitas](https://visitor-badge.glitch.me/badge?page_id=jrmesquita7)
+[![Top Language](<URL>)](https://github.com/<jrmesquita7>/<jrmesquita7>)
+
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para me seguir e explorar meus repositórios para obter mais informações e recursos úteis.
 
