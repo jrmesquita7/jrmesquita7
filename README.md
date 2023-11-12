@@ -1,6 +1,6 @@
 # Olá, me chamo Cleobeto Junior!!
 
-- 🤗 Hoje trabalho com gestão de projetos e inovação
+- 🤗 Sou Analista de Sistemas e hoje trabalho com gestão de projetos e inovação
 - 📖 Estudando Flutter, Spring Boot, Power BI e Banco de Dados
 
 <div>
