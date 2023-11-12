@@ -13,5 +13,4 @@ Olá, me chamo Cleobeto mas pode me chamar de Beto, tenho 24 anos e Analista de 
 
 
 [![Top Language](https://img.shields.io/github/languages/top/jrmesquita7/jrmesquita7)](https://github.com/jrmesquita7/jrmesquita7)
-![top language](https://img.shields.io/github/languages/top/https%3A%2F%2Fgithub.com%2Fjrmesquita7/https%3A%2F%2Fgithub.com%2Fjrmesquita7%2Fjrmesquita7)
 
