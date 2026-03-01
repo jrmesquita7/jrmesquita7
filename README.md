@@ -1,6 +1,6 @@
 # Olá, eu sou o Cleobeto Junior! 👋
 
-### **Senior Analytics Engineer | Data Architect | Full-Stack Developer**
+### **Pleno Analytics Engineer | Data Architect | Full-Stack Developer**
 
 Especialista em transformar ecossistemas de dados complexos em inteligência de negócio auditável e escalável. Minha atuação une a robustez do desenvolvimento de sistemas com a agilidade da engenharia de dados moderna.
 
